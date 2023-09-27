@@ -1,0 +1,148 @@
+ [
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "title": "Medical Supplies ",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_color": "#0052FF",
+        "button_bg_color": "#0052FF",
+        "description": "Help provide essential medical supplies to children in need. Your donation will make a difference in their lives.",
+        "price": 50
+      },
+      {
+        "id": 2,
+        "image_url": "https://i.ibb.co/Kx7fX69/Education.png",
+        "title": "School Books for kids",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "rgba(255, 68, 74, 0.15)",
+        "text_color": "#FF444A",
+        "button_bg_color": "#FF444A",
+        "description": "Support the education of underprivileged children by providing them with school books and study materials.",
+        "price": 30
+      },
+      {
+        "id": 3,
+        "image_url": "https://i.ibb.co/dtXZp0c/Clothing.png",
+        "title": "Winter Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "rgba(121, 194, 63, 0.15)",
+        "text_color": "#79C23F",
+        "button_bg_color": "#79C23F",
+        "description": "Donate warm winter clothing to those in need. Your contribution will keep them warm during the cold season.",
+        "price": 20
+      },
+      {
+        "id": 4,
+        "image_url": "https://i.ibb.co/0CkSK9C/Food.png",
+        "title": "Food Aid for Families",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "rgba(248, 113, 71, 0.15)",
+        "text_color": "#F87147",
+        "button_bg_color": "#F87147",
+        "description": "Help provide nutritious meals to struggling families. Your support can alleviate hunger in your community.",
+        "price": 40
+      },
+      {
+        "id": 5,
+        "image_url": "https://i.ibb.co/0CkSK9C/Food.png",
+        "title": "Emergency Food Relief",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "rgba(248, 113, 71, 0.15)",
+        "text_color": "#F87147",
+        "button_bg_color": "#F87147",
+        "description": "Provide emergency food relief to families facing hunger due to unexpected crises and disasters.",
+        "price": 50
+      },
+      {
+        "id": 6,
+        "image_url": "https://i.ibb.co/dtXZp0c/Clothing.png",
+        "title": "Children's Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "rgba(121, 194, 63, 0.15)",
+        "text_color": "#79C23F",
+        "button_bg_color": "#79C23F",
+        "description": "Collect clothing items for children in need to ensure they stay warm and comfortable.",
+        "price": 25
+      },
+      {
+        "id": 7,
+        "image_url": "https://i.ibb.co/Kx7fX69/Education.png",
+        "title": "Scholarship for deprived",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "rgba(255, 68, 74, 0.15)",
+        "text_color": "#FF444A",
+        "button_bg_color": "#FF444A",
+        "description": "Empower underprivileged students with scholarships to access quality education and pursue their dreams.",
+        "price": 50
+      },
+      {
+        "id": 8,
+        "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "title": "Medical Equipment",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_color": "#0052FF",
+        "button_bg_color": "#0052FF",
+        "description": "Contribute to improving healthcare by providing essential medical equipment to hospitals in need.",
+        "price": 100
+      },
+      {
+        "id": 9,
+        "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "title": "Vaccination Campaign for all",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_color": "#0052FF",
+        "button_bg_color": "#0052FF",
+        "description": "Support vaccination programs to protect children and communities from preventable diseases.",
+        "price": 30
+      },
+      {
+        "id": 10,
+        "image_url": "https://i.ibb.co/Kx7fX69/Education.png",
+        "title": "Computer Literacy Program",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "rgba(255, 68, 74, 0.15)",
+        "text_color": "#FF444A",
+        "button_bg_color": "#FF444A",
+        "description": "Empower students with computer literacy skills to enhance their educational opportunities.",
+        "price": 40
+      },
+      {
+        "id": 11,
+        "image_url": "https://i.ibb.co/dtXZp0c/Clothing.png",
+        "title": "Warm Blankets for the Homeless",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "rgba(121, 194, 63, 0.15)",
+        "text_color": "#79C23F",
+        "button_bg_color": "#79C23F",
+        "description": "Provide warm blankets to homeless individuals during the cold winter months to ensure their comfort.",
+        "price": 15
+      },
+      {
+        "id": 12,
+        "image_url": "https://i.ibb.co/0CkSK9C/Food.png",
+        "title": "Community Kitchen Expansion",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "rgba(248, 113, 71, 0.15)",
+        "text_color": "#F87147",
+        "button_bg_color": "#F87147",
+        "description": "Support the expansion of community kitchens to provide hot meals to those in need on a larger scale.",
+        "price": 60
+      }
+    ]
+  
+  
