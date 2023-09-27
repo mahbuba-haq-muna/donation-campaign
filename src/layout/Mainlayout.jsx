@@ -8,7 +8,7 @@ const Mainlayout = () => {
             <div className="px-10">
             <Navbar></Navbar>
             </div>
-            <div className="py-10">
+            <div className="p-10">
             <Outlet></Outlet>
             </div>
         </div>

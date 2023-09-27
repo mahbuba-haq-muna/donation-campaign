@@ -14,7 +14,7 @@ const Campaign = () => {
         setCard(findCard)
     }, [id, cards]);
 
-    console.log(card)
+    
     return (
         <div>
             <CampaignCard card={card}></CampaignCard>
