@@ -3,7 +3,7 @@
 const Banner = () => {
     return (
         <div className="relative">
-            <section className="bg-[url('public/image/banner.jpg')] h-[70vh] bg-no-repeat bg-cover bg-center ">
+            <section className="bg-[url('https://i.ibb.co/CHjrj4L/banner.jpg')] h-[70vh] bg-no-repeat bg-cover bg-center ">
             <div className="absolute inset-0 bg-white opacity-50"></div>
 
                 <div className="absolute inset-36">
