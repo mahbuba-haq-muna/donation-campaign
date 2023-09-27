@@ -28,7 +28,9 @@ const DonationCard = ({ card }) => {
                     </div>
                 </div>
             </div>
+            
         </div>
+        
     );
 };
 
