@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div  className="max-w-[1300px] mx-auto">
             <nav className="flex justify-between item-center py-5">
-                <div><img src="public/image/Logo.png" alt="" /></div>
+                <div><img src="https://i.ibb.co/2j4ZQ3Z/Logo.png" alt="" /></div>
                 <ul className="flex gap-5 py-4">
                     <li>
                         <NavLink

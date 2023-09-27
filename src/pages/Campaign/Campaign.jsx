@@ -1,15 +1,23 @@
-import { useState } from "react";
-import { useLoaderData } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { useLoaderData, useParams } from "react-router-dom";
+import CampaignCard from "./CampaignCard";
 
 
 const Campaign = () => {
-    const [card, setCard] = useState()
-
+    // const{image_url,text_color, title} = card || {}
+    const [card, setCard] = useState();
+    const { id } = useParams();
     const cards = useLoaderData();
-    console.log(cards)
+
+    useEffect(() => {
+        const findCard = cards?.find(card => card.id == id)
+        setCard(findCard)
+    }, [id, cards]);
+
+    console.log(card)
     return (
         <div>
-            
+            <CampaignCard card={card}></CampaignCard>
         </div>
     );
 };

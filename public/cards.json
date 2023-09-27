@@ -2,14 +2,15 @@
       {
         "id": 1,
         "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "image" : "https://i.ibb.co/qJr58fH/Rectangle-4284.png",
         "title": "Medical Supplies ",
         "category": "Health",
         "category_bg_color": "rgba(0, 82, 255, 0.20)",
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
         "text_color": "#0052FF",
         "button_bg_color": "#0052FF",
-        "description": "Help provide essential medical supplies to children in need. Your donation will make a difference in their lives.",
-        "price": 50
+        "description": "Help provide essential medical supplies to children in need. Your donation will make a significant difference in their lives by ensuring that they have access to vital healthcare resources. Your generosity can save lives and give these children a brighter and healthier future.",
+        "price": 250
       },
       {
         "id": 2,
@@ -20,8 +21,8 @@
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
         "text_color": "#FF444A",
         "button_bg_color": "#FF444A",
-        "description": "Support the education of underprivileged children by providing them with school books and study materials.",
-        "price": 30
+        "description": "Support the education of underprivileged children by providing them with school books and study materials. Your contribution will empower these kids to access quality education and open doors to a brighter future. Together, we can break the cycle of poverty through knowledge and learning.",
+        "price": 130
       },
       {
         "id": 3,
@@ -32,8 +33,8 @@
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
         "text_color": "#79C23F",
         "button_bg_color": "#79C23F",
-        "description": "Donate warm winter clothing to those in need. Your contribution will keep them warm during the cold season.",
-        "price": 20
+        "description": "Donate warm winter clothing to those in need. Your contribution will ensure that vulnerable individuals stay warm and comfortable during the harsh winter months. Together, we can make a difference in their lives by providing essential clothing items and spreading warmth and kindness.",
+        "price": 220
       },
       {
         "id": 4,
@@ -44,8 +45,8 @@
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
         "text_color": "#F87147",
         "button_bg_color": "#F87147",
-        "description": "Help provide nutritious meals to struggling families. Your support can alleviate hunger in your community.",
-        "price": 40
+        "description": "Help provide nutritious meals to struggling families. Your support can alleviate hunger in your community and ensure that families have access to essential food supplies. Together, we can make sure that no one goes to bed hungry and build stronger, healthier communities.",
+        "price": 340
       },
       {
         "id": 5,
@@ -57,7 +58,7 @@
         "text_color": "#F87147",
         "button_bg_color": "#F87147",
         "description": "Provide emergency food relief to families facing hunger due to unexpected crises and disasters.",
-        "price": 50
+        "price": 150
       },
       {
         "id": 6,
@@ -69,7 +70,7 @@
         "text_color": "#79C23F",
         "button_bg_color": "#79C23F",
         "description": "Collect clothing items for children in need to ensure they stay warm and comfortable.",
-        "price": 25
+        "price": 225
       },
       {
         "id": 7,
@@ -81,11 +82,12 @@
         "text_color": "#FF444A",
         "button_bg_color": "#FF444A",
         "description": "Empower underprivileged students with scholarships to access quality education and pursue their dreams.",
-        "price": 50
+        "price": 250
       },
       {
         "id": 8,
         "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "image" : "https://i.ibb.co/qJr58fH/Rectangle-4284.png",
         "title": "Medical Equipment",
         "category": "Health",
         "category_bg_color": "rgba(0, 82, 255, 0.20)",
@@ -93,11 +95,12 @@
         "text_color": "#0052FF",
         "button_bg_color": "#0052FF",
         "description": "Contribute to improving healthcare by providing essential medical equipment to hospitals in need.",
-        "price": 100
+        "price": 400
       },
       {
         "id": 9,
         "image_url": "https://i.ibb.co/dPjHLy2/Health.png",
+        "image" : "https://i.ibb.co/qJr58fH/Rectangle-4284.png",
         "title": "Vaccination Campaign for all",
         "category": "Health",
         "category_bg_color": "rgba(0, 82, 255, 0.20)",
@@ -105,7 +108,7 @@
         "text_color": "#0052FF",
         "button_bg_color": "#0052FF",
         "description": "Support vaccination programs to protect children and communities from preventable diseases.",
-        "price": 30
+        "price": 230
       },
       {
         "id": 10,
@@ -117,7 +120,7 @@
         "text_color": "#FF444A",
         "button_bg_color": "#FF444A",
         "description": "Empower students with computer literacy skills to enhance their educational opportunities.",
-        "price": 40
+        "price": 140
       },
       {
         "id": 11,
@@ -129,7 +132,7 @@
         "text_color": "#79C23F",
         "button_bg_color": "#79C23F",
         "description": "Provide warm blankets to homeless individuals during the cold winter months to ensure their comfort.",
-        "price": 15
+        "price": 115
       },
       {
         "id": 12,
@@ -141,7 +144,7 @@
         "text_color": "#F87147",
         "button_bg_color": "#F87147",
         "description": "Support the expansion of community kitchens to provide hot meals to those in need on a larger scale.",
-        "price": 60
+        "price": 260
       }
     ]
   
